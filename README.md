@@ -1,1 +1,1 @@
-# NitcQuestionBank
+# NITC Question Bank
